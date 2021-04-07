@@ -1,4 +1,4 @@
-# D-tecteur-des-masques
+# Détecteur-des-masques
 Construire un détecteur des masques sur des images et en temps réel avec les bibliothèques Tensorflow, Keras, OpenCV, etc...
 
 L'explication du code est directement dans les fichier python.
